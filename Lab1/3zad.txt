@@ -1,0 +1,9 @@
+PlainPldClass: (sizeof) 4
+-> velicina je 4 bajta zbog int x_;
+
+
+CoolClass: (sizeof) 16
+-> velicina je 16 bajtova zbog:
+	4 bajta int x_;
+	8 bajtova zbog virtualne tablice pokazivaca funkcija
+	4 bajta paddinga (da u memoriji bude sve poravnato)

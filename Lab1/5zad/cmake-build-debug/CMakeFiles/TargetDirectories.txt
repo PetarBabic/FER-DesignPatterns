@@ -1,0 +1,3 @@
+/Users/petarbabic/Desktop/Faks/6 semestar/Ooup/Lab/Lab1/5zad/cmake-build-debug/CMakeFiles/5zad.dir
+/Users/petarbabic/Desktop/Faks/6 semestar/Ooup/Lab/Lab1/5zad/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/petarbabic/Desktop/Faks/6 semestar/Ooup/Lab/Lab1/5zad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
